@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hello">Xin chào</string>
+    <string name="test">Đây là ứng dụng thử nghiệm</string>
+</resources>
